@@ -132,8 +132,8 @@ option.Godrays.comment=Makes the sun casts rays. §4Low performance impact.
 Volumetric_Lighting
 option.Volumetric_Lighting=Volumetric Lighting
 option.Volumetric_Lighting.comment=WIP, causes some bugs right now and is quite performance hungry. Disables godrays if enabled.
-option.VL_dISTANCE=VL Invisibility
-option.VL_dISTANCE.comment=Adjust the invisibility of Volumetric Lighting. If the volumetric lighting is not much visible, decrease this.
+option.VL_dISTANCE=VL Distance
+option.VL_dISTANCE.comment=Adjust the distance of Volumetric Lighting.
 option.maxSamples=VL Max Samples
 option.maxSamples.comment=Adjust the quality of Volumetric Lighting.
 
