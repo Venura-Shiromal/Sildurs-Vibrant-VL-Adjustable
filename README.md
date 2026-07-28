@@ -20,8 +20,6 @@ In the original v1.281 Extreme-VL shader, the volumetric lighting parameters wer
 
 These settings are now adjustable in‑game via the shader options menu. (Sky & Lighting > Volumetric Lighting)
 
-## 📸 Screenshots
-
 ## 👏 Credits
 
 - **Original Shader**: [Sildurs Vibrant Shaders](https://sildurs-shaders.github.io/) by Sildur. 
